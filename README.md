@@ -261,6 +261,3 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 (hbnb)
 
 ```
-## Authors
-- [Musa Godwin](https://@github.com/GeamXD)
-- [Oluwatomisin Isogun](https://@github.com/TosinISOGUN)
